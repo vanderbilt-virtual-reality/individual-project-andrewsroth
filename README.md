@@ -1,0 +1,13 @@
+# individual-project-andrewsroth
+individual-project-andrewsroth created by GitHub Classroom
+
+From a young age, I’ve been very interested in horror games. I used to download Slenderman on my phone and play for hours under my covers before bed, jumping every time I encountered the dark, creepy tall man that popped out from nowhere. When considering what to build for this virtual environment, it felt natural to create something that reminded me of my childhood. 
+I also think that there is an interesting and more modern psychological component of this. From my experience working on the peri-personal space team, I became very interested in the manifestation of your senses in virtual reality. With the peri-personal team focusing on feelings of proximity and claustrophobia in a virtual environment, I decided to create the environment focusing on the impact of fear and sound in a virtual environment. 
+Furthermore, there is lots of research coming out about violent media affecting violent behavior. In an ideal scenario, I would like to test this out and try and see before and after playing the game how aggressive people feel (could potentially be a survey that would give insight into aggression). 
+As far as the medium goes, I tried to recall my experience with the 2d game on the iPhone to best compare. When playing the game on a mobile phone, you can still hear sounds and directly affect the actions of the character. 
+However, there is no feeling as if you are immersed, you are simply just controlling the game. When in virtual reality, on the contrary, it is possible to feel completely immersed in the surroundings, and feel as if you could be in an actual reality. 
+Thus, I felt the representation of the slender man game in virtual reality would be a perfect way to express “immersion” in an experience. With sounds, sight, movement and visual feedback being controlled by the user, VR is the perfect medium to try and understand fear. 
+The one critique I have of VR for my goals is that it is difficult to effectively recreate reality with the knowledge I currently have.
+As someone who doesn’t code, it is really difficult to populate scripts and triggers with the same power that other students do. 
+If I were able to do some more intense coding and understand c#, I think that I would be able to better replicate some of the actual Slenderman experience. In general, however, I think VR is on its way to becoming indistinguishable from reality. 
+At the rate that technology is currently improving, VR experiences will not even be able to see the appearance of the screen in front of you. Soon, VR may even be a better way to experience reality.
